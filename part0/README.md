@@ -7,6 +7,7 @@ In this part, we will familiarize ourselves with the practicalities of taking th
 ### 0.4: New note
 [0.4.md](0.4.md)
 ### 0.5: Single page app
+[0.5.md](0.5.md)
 ### 0.6: New note in Single page app diagram
 
 
